@@ -2,10 +2,10 @@
 **La documentación de este repositorio puede ser modificada y ampliada en el transcurso de la investigación.**
 
 ## Repositorios
-** - Conversacionales en el Edge.
-** - Algoritmos integradores IoT.
-** - Despliegue de redes semánticas de nbodos Edge.
-** - Agentes conversacionales de nodos Edge.
+- **Conversacionales en el Edge**
+- **Algoritmos integradores IoT**
+- **Despliegue de redes semánticas de nbodos Edge**
+- **Agentes conversacionales de nodos Edge**
 
 ## Descripción
 La necesidad de acercar la stecnologías generativas..
