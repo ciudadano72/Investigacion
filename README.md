@@ -2,6 +2,7 @@
 **La documentación de este repositorio puede ser modificada y ampliada en el transcurso de la investigación.**
 
 ## Repositorios
+- **Documentación y estudios.** ![GitHub Created At](https://img.shields.io/github/created-at/ciudadano72/documentacion)
 - **Conversacionales en el Edge.**
 - **Algoritmos integradores IoT.**
 - **Despliegue de redes semánticas de nodos Edge.**
