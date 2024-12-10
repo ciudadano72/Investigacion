@@ -1,4 +1,4 @@
-# Research: Investigación de técnicas y desarrollos relacionados con las tecnologías generativas en el Edge.
+# Investigación de técnicas y desarrollos relacionados con las tecnologías generativas en el Edge.
 **La documentación de este repositorio puede ser modificada y ampliada en el transcurso de la investigación.**
 
 ## Repositorios
