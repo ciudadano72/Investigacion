@@ -16,7 +16,7 @@
 ## Attribution
 - José Luis Prado Seoane
 - https://www.linkedin.com/in/jlpc72/ ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
-- https://joseluisprase.wixsite.com/jlps
+- https://joseluisprase.wixsite.com/jlps ![Wix](https://img.shields.io/badge/wix-000?style=for-the-badge&logo=wix&logoColor=white)
 
 ## License [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 La licencia del software de los repositorios a la que se refieren los documentosque estarán en este repositorio están bajo la licencia Apache 2 license. Ver en [LICENCIA](LICENSE) para más detalles.
