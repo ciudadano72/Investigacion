@@ -16,5 +16,5 @@ La necesidad de acercar la stecnologías generativas..
 - https://www.linkedin.com/in/jlpc72/
 - https://joseluisprase.wixsite.com/jlps
 
-## License
+## License [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 La licencia del software de los repositorios a la que se refieren los documentosque estarán en este repositorio están bajo la licencia Apache 2 license. Ver en [LICENCIA](LICENSE) para más detalles.
