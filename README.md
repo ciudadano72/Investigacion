@@ -6,7 +6,7 @@
 ![image](https://github.com/user-attachments/assets/9b0fc87f-2fa4-4134-813e-5e203109fec3)
 
 ## Repositorios
-- **Documentación y estudios.** ![GitHub Created At](https://img.shields.io/github/created-at/ciudadano72/documentacion)
+- **Investigación.** ![GitHub Created At](https://img.shields.io/github/created-at/ciudadano72/documentacion)
 - **Conversacionales en el Edge.**
 - **Algoritmos integradores IoT.**
 - **Despliegue de redes semánticas de nodos Edge.**
