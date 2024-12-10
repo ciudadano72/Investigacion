@@ -9,7 +9,7 @@
 - **Agentes conversacionales en dominio.**
 
 ## Descripción
-La necesidad de acercar la stecnologías generativas..
+..
 
 ## Attribution
 - José Luis Prado Seoane
