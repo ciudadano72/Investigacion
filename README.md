@@ -1,4 +1,4 @@
-# Investigación de técnicas y desarrollos relacionados con las tecnologías generativas en el Edge.
+# Investigación de técnicas y desarrollos relacionados con las tecnologías generativas en el Edge. ![Edge](https://img.shields.io/badge/Edge-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white)
 **La documentación de este repositorio puede ser modificada y ampliada en el transcurso de la investigación.**
 
 ## Repositorios
