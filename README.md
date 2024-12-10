@@ -3,7 +3,7 @@
 # Investigación de técnicas y desarrollos relacionados con las tecnologías generativas en el Edge. 
 **La documentación de este repositorio puede ser modificada y ampliada en el transcurso de la investigación.**
 
-![image](https://github.com/user-attachments/assets/a654892b-656e-45b1-a0e7-1fadf8e02940)
+![image](https://github.com/user-attachments/assets/9b0fc87f-2fa4-4134-813e-5e203109fec3)
 
 ## Repositorios
 - **Documentación y estudios.** ![GitHub Created At](https://img.shields.io/github/created-at/ciudadano72/documentacion)
