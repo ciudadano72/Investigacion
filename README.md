@@ -3,6 +3,8 @@
 # Investigación de técnicas y desarrollos relacionados con las tecnologías generativas en el Edge. 
 **La documentación de este repositorio puede ser modificada y ampliada en el transcurso de la investigación.**
 
+![GiHun_repos](https://github.com/user-attachments/assets/8172a8d1-c018-4054-9e03-c12f086e0193)
+
 ## Repositorios
 - **Documentación y estudios.** ![GitHub Created At](https://img.shields.io/github/created-at/ciudadano72/documentacion)
 - **Conversacionales en el Edge.**
