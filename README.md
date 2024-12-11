@@ -13,7 +13,10 @@
 - **Agentes conversacionales en dominio.**
 
 ## Descripción
-..
+Texto
+![image](https://github.com/user-attachments/assets/8fa58d2d-fa3a-4cbb-9e1b-2c743257e519)
+
+texto
 
 ## Attribution
 - José Luis Prado Seoane
