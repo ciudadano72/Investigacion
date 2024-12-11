@@ -14,7 +14,7 @@
 
 ## Descripción
 Texto
-![image](https://github.com/user-attachments/assets/8fa58d2d-fa3a-4cbb-9e1b-2c743257e519)
+![image](https://github.com/user-attachments/assets/2414926a-f973-4179-aff4-08e7992d7ef0)
 
 texto
 
