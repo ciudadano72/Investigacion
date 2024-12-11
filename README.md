@@ -14,7 +14,9 @@
 
 ## Descripción
 
-Las tecnologías de aprendizaje generativas del marco de la inteligencia artificial se han convertido en unas de las tecnologías más relevantes de nuestro tiempo. Esta investigación ahonda en una de las dos perspecxtivas o corrientes actuales dominantes, la documental, entendida como la representación de los datos de una manera especializada en el uso de estas tecnologías generativas orientadas al Edge, entendido como ese activo, elemento o activo integrador semántico de la información.
+Las tecnologías de aprendizaje generativas del marco de la inteligencia artificial se han convertido en unas de las tecnologías más relevantes de nuestro tiempo. 
+
+Esta investigación ahonda en una de las dos perspecxtivas o corrientes actuales dominantes, la documental, entendida como la representación de los datos de una manera especializada en el uso de estas tecnologías generativas orientadas al Edge, entendido como ese activo, elemento o activo integrador semántico de la información.
 
 ![image](https://github.com/user-attachments/assets/2414926a-f973-4179-aff4-08e7992d7ef0)
 
