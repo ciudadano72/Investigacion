@@ -20,7 +20,7 @@ Esta investigación ahonda en una de las dos perspectivas o corrientes actuales 
 
 ![image](https://github.com/user-attachments/assets/2414926a-f973-4179-aff4-08e7992d7ef0)
 
-Las limitaciones que impone en relación a la democratización de estas tecnologías de aprendizaje en el seno de las empresas asociado con los recursos necesarios y costes elevados para su desarrollo, implementación y despliegue.
+Las limitación que va en contra de la democratización de estas tecnologías de aprendizaje en el seno de las empresas está relacionada con los recursos que se necesitan y los costes elevados para su desarrollo, implementación y despliegue.
 
 A todo ello, se suman problemáticas relacionadas con la certeza, las alucinaciones de los modelos LLMs asociados a la falta de datos de calidad, la limitada expasión transformadora de los mismos por falta de recursos o por una incorrecta elección de los espacios de recuperación vectorial no bien aproximados o dirigidos dentro del aprendizaje de los grandes modelos, hace que planteamientos de negocio con perspectivas incremetales dónde la cantidad de datos de diferentes orígenes son másivos y muy generales, aún habiendo interesantes servicios Cloud proporcionados por las empresas que desarrollan estas tecnologías para el desarrollo de negocio, presentan con el tiempo en las empresas elevados costes, problemas con el dominio de los datos que no debe confundirse con el legal y la privacidad de los mismos.
 
