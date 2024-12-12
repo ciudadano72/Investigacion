@@ -10,7 +10,7 @@
 - **Investigación.** ![GitHub Created At](https://img.shields.io/github/created-at/ciudadano72/documentacion)
 - **Conversacionales en el Edge.**
 - **Algoritmos integradores IoT.**
-- **Despliegue de redes semánticas de nodos Edge.**
+- **Despliegue de redes semánticas.**
 - **Agentes conversacionales en dominio.**
 
 ## Descripción
