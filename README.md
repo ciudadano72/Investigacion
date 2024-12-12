@@ -20,6 +20,7 @@ Esta investigación se centra en el desarrollo de técnicas orientadas al dispos
 
 ![image](https://github.com/user-attachments/assets/3ceaac98-e26e-4221-ab7d-9558d2bb53cc)
 
+El continuo avance en el procesamiento y el rendimiento de la memoria en los Chipsets diseñados para dispositivos periféricos y el acercamiento de los modelos generativos por la apuesta decidida de industria en acercar estas tecnologías al Edge con la reducción del número de parámetros que necesita un modelo para ofrecer resultados precisos confirman este cambio de tendencia y nuevo paradigma orientado a dispositivo basado en contextos.
 
 Las limitación que va en contra de la democratización de estas tecnologías de aprendizaje en el seno de las empresas está relacionada con los recursos que se necesitan y los costes elevados para su desarrollo, implementación y despliegue.
 
