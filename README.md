@@ -14,9 +14,9 @@
 
 ## Descripción
 
-Las tecnologías de aprendizaje generativas del marco de la inteligencia artificial se han convertido en unas de las tecnologías más relevantes de nuestro tiempo. 
+Las tecnologías de aprendizaje generativas del marco de la Inteligencia Artificial se han convertido en unas de las tecnologías más relevantes de nuestro tiempo. Acercar su uso a los dispositivos proporciona todo tipo de ventajas relacionadas con la reducción de costes, eficiencia y rendimiento, personalización y más privacidad en el tratamiento de los datos.
 
-Esta investigación ahonda en una de las dos perspectivas o corrientes actuales dominantes, la documental, entendida como la representación de los datos de una manera especializada en el uso de estas tecnologías generativas orientadas al Edge, entendido como ese activo, elemento o activo integrador semántico de la información.
+Esta investigación se centra en el desarrollo de técnicas orientadas al dispositivo Hardware relacionado con la sensorización, como elemento discreto o concentrador-integrador de la información de diferentes orígenes de datos como son los sensores Iot u otros elementos o nodos de información conectados en dominio, centrándose en la técnica más allá del elemento hardware utilizado profundizando en una de las dos perspectivas o corrientes actuales dominantes; la documental, entendida como la representación reducida o sintetizada de los datos en contexto de una manera especializada en propósitos específicos para suy aplicación tanto en ámbitos comerciales orientados a servicios e industriales orientados a la monitorización.
 
 ![image](https://github.com/user-attachments/assets/2414926a-f973-4179-aff4-08e7992d7ef0)
 
