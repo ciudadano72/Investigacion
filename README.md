@@ -18,7 +18,8 @@ Las tecnologías de aprendizaje generativas del marco de la Inteligencia Artific
 
 Esta investigación se centra en el desarrollo de técnicas orientadas al dispositivo Hardware relacionado con la sensorización, como elemento discreto o concentrador-integrador de la información de diferentes orígenes de datos como son los sensores Iot u otros elementos o nodos de información conectados en dominio, centrándose en la técnica y abstrayéndose del elemento hardware utilizado profundizando en una de las dos perspectivas o corrientes actuales dominantes; la documental, entendida como la representación reducida o sintetizada de los datos en contexto de una manera especializada en propósitos específicos para su aplicación tanto en ámbitos comerciales orientados a servicios o aquellos otros industriales orientados a la monitorización.
 
-![image](https://github.com/user-attachments/assets/2414926a-f973-4179-aff4-08e7992d7ef0)
+![image](https://github.com/user-attachments/assets/3ceaac98-e26e-4221-ab7d-9558d2bb53cc)
+
 
 Las limitación que va en contra de la democratización de estas tecnologías de aprendizaje en el seno de las empresas está relacionada con los recursos que se necesitan y los costes elevados para su desarrollo, implementación y despliegue.
 
